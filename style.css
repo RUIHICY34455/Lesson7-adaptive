@@ -440,7 +440,7 @@
         grid-gap: 19px;
         grid-template-columns: repeat(3, 1fr);
     }
-    .c {
+    .offer-card {
         min-width: 230px;
     }
     .img-photo-offer {
